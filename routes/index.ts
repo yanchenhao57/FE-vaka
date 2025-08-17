@@ -48,8 +48,12 @@ export const routes = [
         label: "Sliding disparity effect",
       },
       {
-        url: "/mac-bottom-bar",
+        url:  "/mac-bottom-bar",
         label: "Mac bottom bar",
+      },
+      {
+        url: "/shine-card",
+        label: "Shine card",
       },
     ],
   },
