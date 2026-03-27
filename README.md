@@ -1,5 +1,5 @@
 # TypeScript Next.js example
-version 1
+version 2
 
 This is a really simple project that shows the usage of Next.js with TypeScript.
 
